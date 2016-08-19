@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NestedParentView">
+        <attr name="viewType">
+            <flag name="scroll" value="0" />
+            <flag name="fade" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>
